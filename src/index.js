@@ -8,6 +8,8 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
+    This weather app was coded by Portia and is open-sourced on{" "}
+    <a href="https://github.com/Portia165/weather-react.git">GitHub</a>.
   </React.StrictMode>
 );
 
